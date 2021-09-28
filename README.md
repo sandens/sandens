@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Steve
-- 👀 I’m interested in making thing talk to each other
+- 👀 I’m interested in making things talk to each other
 - 🌱 I’m currently learning about using GCP, Blockchain and all things Python 
 
 <!---
